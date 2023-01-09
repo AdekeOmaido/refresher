@@ -25,3 +25,4 @@ function getGrade(studentMarks) {
         console.log(E);
     }
 }
+//This is a random comment. ignore it.
